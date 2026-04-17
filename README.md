@@ -21,3 +21,13 @@
   - Herança
   - Polimorfismo
 - Exemplos de cada conceito
+
+## [Parte 4](Parte4.md)
+- Explorando as Oportunidades e exigências da área
+- Salário médio de um desenvolvedor Java no brasil
+  - Junior
+  - Pleno
+  - Sênior
+- Áreas onde o Java é amplamente ultilizado
+- Tecnologias ou Frameworks exigidos pelas empresas para programadores Java 
+
