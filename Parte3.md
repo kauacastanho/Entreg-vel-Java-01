@@ -110,7 +110,9 @@ public class Main {
 
 A POO é fundamental no desenvolvimento em Java, pois permite criar sistemas mais organizados, reutilizáveis e fáceis de manter. Os conceitos de classe, objeto, encapsulamento, herança e polimorfismo são a base para a construção de aplicações modernas.
 
+---
 
+[<<- Sumário](README.md) | [<- Parte 2](Parte2.md) | [Parte 4 ->](Parte4.md) 
 
 
 
