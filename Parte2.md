@@ -64,3 +64,8 @@ IDE oficial mantida pela Apache, bastante utilizada por iniciantes.
 ### IDE escolhida
 
 A IDE que eu escolheria para estudar é o IntelliJ IDEA, pois ela oferece uma experiência mais moderna e produtiva. Seus recursos de autocompletar e análise de código ajudam muito no aprendizado, além de facilitar a identificação de erros rapidamente.
+
+---
+
+[<<- Sumário](README.md) | [<- Parte 1](Parte2.md) | [Parte 3 ->](Parte3.md) 
+
