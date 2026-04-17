@@ -63,4 +63,6 @@ Desde seu lançamento, várias versões do Java foram lançadas com melhorias im
 - **Java 21** (2023)
   - Versão recente com suporte de longo prazo. Trouxe avanços em concorrência, desempenho e simplificação da linguagem, tornando o Java mais moderno e eficiente.
 
+---
 
+[<- Sumário](README.md) | [Parte 2 ->](Parte2.md) 
