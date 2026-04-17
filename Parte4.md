@@ -46,3 +46,7 @@ O Java é uma linguagem extremamente versátil e utilizada em diversas áreas:
 ---
 
 O mercado para desenvolvedores Java no Brasil é bastante aquecido, com boas oportunidades e salários competitivos. Profissionais que dominam frameworks modernos e conceitos como APIs, microsserviços e cloud computing tendem a se destacar e alcançar melhores posições na carreira.
+
+---
+
+[<<- Sumário](README.md) | [<- Parte 3](Parte3.md) 
